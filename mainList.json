@@ -1,7 +1,8 @@
 {
 [
-  "title":"What are the algorithms?"
-  "subtitle":"Pancakes!"
+  { "title":"What are the algorithms?",
+    "subtitle":"Pancakes!"
+  },
 ]
 
 }
