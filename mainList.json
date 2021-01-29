@@ -1,8 +1,10 @@
-{
-[
-  { "title":"What are the algorithms?",
-    "subtitle":"Pancakes!"
-  },
-]
-
-}
+[{
+	"title": "What are the algorithm and data structures?",
+	"SubTitle": "Pancaked!"
+}, {
+	"title": "Why learn algorithms?",
+	"SubTitle": "Worried this isn't your cup of coffee? Then read this."
+}, {
+	"title": "Big-O notation",
+	"SubTitle": "We often say things like, 'This algorithm is O(n).' if you don't know what that means, read this first."
+}]
