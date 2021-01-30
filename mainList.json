@@ -7,4 +7,7 @@
 }, {
 	"title": "Big-O notation",
 	"SubTitle": "We often say things like, 'This algorithm is O(n).' if you don't know what that means, read this first."
+}, {
+	"title": "Algorithms Design Techniques",
+	"SubTitle": "How do you create your own algorithms."
 }]
