@@ -1,20 +1,24 @@
 [{
 	"title": "What are the algorithm and data structures?",
 	"SubTitle": "Pancaked!",
-	"details":"id1.json"
+	"details":"id1.json",
+	"image":"https://cdn4.iconfinder.com/data/icons/computers-3/32/61-01-512.png"
 }, {
 	"title": "Why learn algorithms?",
 	"SubTitle": "Worried this isn't your cup of coffee? Then read this.",
-	"details":"id2.json"
+	"details":"id2.json",
+	"image":"https://cdn4.iconfinder.com/data/icons/computers-3/32/61-01-512.png"
 
 }, {
 	"title": "Big-O notation",
 	"SubTitle": "We often say things like, 'This algorithm is O(n).' if you don't know what that means, read this first.",
-	"details":"id3.json"
+	"details":"id3.json",
+	"image":"https://cdn4.iconfinder.com/data/icons/computers-3/32/61-01-512.png"
 
 }, {
 	"title": "Algorithms Design Techniques",
 	"SubTitle": "How do you create your own algorithms.",
-	"details":"id4.json"
+	"details":"id4.json",
+	"image":"https://cdn4.iconfinder.com/data/icons/computers-3/32/61-01-512.png"
 
 }]
